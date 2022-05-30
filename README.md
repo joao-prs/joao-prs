@@ -1,5 +1,5 @@
 ## Por hora, mais um portifólio da internet.
-### :)
+### };
 
 <!--
 **TheCoolerJoao/TheCoolerJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
