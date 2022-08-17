@@ -1,7 +1,10 @@
 ## Bem-vindo ao meu portfólio.
 
 ### Desenvolvedor e ilustrador de dia.
+Algumas ferramentas utilizadas antes das 18h: visual studio code, github, vmware, docker, ibispaint.
+
 ### Modelador e animador 2D e 3D de noite.
+Algumas ferramentas utilizadas depois das 18h: blender, premiere pro, unity, krita.
 
 <!--
 **TheCoolerJoao/TheCoolerJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
