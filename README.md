@@ -1,5 +1,7 @@
-## Por hora, mais um portifólio da internet.
-### };
+## Bem-vindo ao meu portfólio.
+
+### Desenvolvedor e ilustrador de dia.
+### Modelador e animador 2D e 3D de noite.
 
 <!--
 **TheCoolerJoao/TheCoolerJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
