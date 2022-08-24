@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu portfólio.
-
+![setup](images/setup_01.png)
 ### Desenvolvedor e ilustrador de dia.
 Algumas ferramentas utilizadas antes das 18h: visual studio code, github, vmware, docker, ibispaint.
 
