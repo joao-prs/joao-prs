@@ -7,6 +7,9 @@ Algumas ferramentas utilizadas antes das 18h: visual studio code, github, vmware
 Algumas ferramentas utilizadas depois das 18h: blender, premiere pro, unity, krita.
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoolerJoao&layout=compact)](https://github.com/s)
+
+
 **TheCoolerJoao/TheCoolerJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
