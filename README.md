@@ -7,6 +7,9 @@ Algumas ferramentas utilizadas antes das 18h: visual studio code, github, vmware
 Algumas ferramentas utilizadas depois das 18h: blender, premiere pro, unity, krita.
 
 <!--
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-4930b023a)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoolerJoao&layout=compact)](https://github.com/s)
 
 
