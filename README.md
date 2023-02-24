@@ -2,6 +2,8 @@
 ![setup](images/wallpaper.png)
 ### Eu codo com
 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
@@ -9,17 +11,16 @@
 ![aws](https://img.shields.io/badge/-AWS-ff9538?style=flat-square&logo=amazon&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white)
-![Mariadb](https://img.shields.io/badge/-MariaDB-3848a3?style=flat-square&logo=mariadb&logoColor=white)
+![Mariadb](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-775ec2?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black)
 ![Csharp](https://img.shields.io/badge/-Csharp-8c44fb?style=flat-square&logo=csharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-C70039?style=flat-square&logo=ruby&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-fff519?style=flat-square&logo=javascript&logoColor=black)
-![PS](https://img.shields.io/badge/-Photoshop-142375?style=flat-square&logo=photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-4b4b48?style=flat-square&logo=blender&logoColor=white)
-![Davinci](https://img.shields.io/badge/-DavinciResolve-4b4b48?style=flat-square&logo=davinciresolve&logoColor=white)
-![FLStudios](https://img.shields.io/badge/-FLStudios-4b4b48?style=flat-square&logo=flstudios&logoColor=white)
+![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
+
 ### Opa, beleza?
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
 
