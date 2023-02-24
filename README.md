@@ -2,7 +2,7 @@
 ![setup](images/wallpaper.png)
 ### Eu codo com
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
