@@ -8,19 +8,19 @@ Algumas ferramentas utilizadas depois das 18h: blender, premiere pro, unity, kri
 
 Abaixo venho desenvolvendo algumas tecnologias:
 
-> ☑️​Git com github e gitlab para compartilhamento de códigos.  
+> ☑️​Git com github e gitlab para compartilhamento de códigos. 
 > 
-> ​☑️​Containers em Docker e Kubernetes.  
+> ​☑️​Containers em Docker e Kubernetes. 
 > 
-> ​☑️​Shell scripts e Python.  
+> ​☑️​Shell scripts e Python. 
 > 
-> ☑️Gerencia de credenciais com passbolt ou bitwarden.  
+> ☑️Gerencia de credenciais com passbolt ou bitwarden. 
 > 
-> ☑️Administração de bancos com Postgresql e MariaDB.  
+> ☑️Administração de bancos com Postgresql e MariaDB. 
 > 
-> ☑️Diagramas e mapas de trabalho.  
+> ☑️Diagramas e mapas de trabalho. 
 > 
-> ☑️Infraestrutura como Código em Terraform.  
+> ☑️Infraestrutura como Código em Terraform. 
 
 <!--
 TheCoolerJoao.md
