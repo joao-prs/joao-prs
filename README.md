@@ -2,14 +2,17 @@
 ![setup](images/wallpaper.png)
 ### Eu codo com
 
+![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ![aws](https://img.shields.io/badge/-Aws-ff9538?style=flat-square&logo=aws&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white)
-![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
+![Mariadb](https://img.shields.io/badge/-MariaDB-3848a3?style=flat-square&logo=mariadb&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=mariadb&logoColor=white)
+
+![PHP](https://img.shields.io/badge/-Php-775ec2?style=flat-square&logo=php&logoColor=white)
 
 
 ### Opa, beleza?
