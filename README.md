@@ -3,9 +3,7 @@
 ### Eu codo com
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Opa, beleza?
