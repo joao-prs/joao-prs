@@ -10,10 +10,11 @@
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/-MariaDB-3848a3?style=flat-square&logo=mariadb&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=mariadb&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=postgresql&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/-Php-775ec2?style=flat-square&logo=php&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black)
+![C#](https://img.shields.io/badge/-CSharp-8c44fb?style=flat-square&logo=csharp&logoColor=white)
 
 ### Opa, beleza?
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
