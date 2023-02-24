@@ -1,11 +1,20 @@
 ## Bem-vindo ao meu portfólio.
-![setup](images/geral.png)
+![setup](images/wallpaper.png)
 ### Desenvolvedor e ilustrador de dia.
 Algumas ferramentas utilizadas antes das 18h: visual studio code, github, vmware, docker, ibispaint.
 
 ### Modelador e animador 2D e 3D de noite.
 Algumas ferramentas utilizadas depois das 18h: blender, premiere pro, unity, krita.
 
+Abaixo venho desenvolvendo algumas tecnologias:
+
+☑️​Git com github e gitlab para compartilhamento de códigos.
+​☑️​Containers em Docker e Kubernetes.
+​☑️​Shell scripts e Python.
+☑️Gerencia de credenciais com passbolt ou bitwarden.
+☑️Administração de bancos com Postgresql e MariaDB.
+☑️Diagramas e mapas de trabalho.
+☑️Infraestrutura como Código em Terraform.
 <!--
 TheCoolerJoao.md
 
