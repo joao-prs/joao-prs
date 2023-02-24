@@ -6,6 +6,12 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![aws](https://img.shields.io/badge/-Aws-ff9538?style=flat-square&logo=aws&logoColor=white)
+![kubernetes](https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white)
+![nginx](https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white)
+![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
+
+
 ### Opa, beleza?
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
 
