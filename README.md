@@ -2,7 +2,9 @@
 ![setup](images/wallpaper.png)
 ### Eu codo com
 
-![Docker](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Terraform]("https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=git&logoColor=white")
+![Git]("https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white")
 
 ### Opa, beleza?
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
