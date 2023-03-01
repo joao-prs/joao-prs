@@ -4,6 +4,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+![Arch](https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch&logoColor=white)
 ![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
