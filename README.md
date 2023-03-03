@@ -1,6 +1,8 @@
+<!--
 ## Bem-vindo ao meu portfólio.
+-->
 ![setup](images/wallpaper.png)
-### Tecnologias
+## Tecnologias
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
@@ -22,7 +24,8 @@
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
 
-### Opa, beleza?
+## Opa, beleza?
+
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
 
 Acredito que podemos aprender e ensinar muito com a tecnologia que temos à nossa disposição, criar soluções e resolver problemas alimentados pelo cativo de “como podemos fazer isso melhor do que como está” sempre utilizando o que está à nossa disposição.   
