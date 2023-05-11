@@ -3,7 +3,7 @@
 -->
 ![Insta](https://img.shields.io/badge/jprs.drw-E4405F?link=https://www.instagram.com/jprs.drw/&style=for-the-badge&logo=instagram&logoColor=white)
 
-![setup](images/capa1.png)
+![setup](images/testecapa.png "by @jprs.drw")
 ## Tecnologias
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
