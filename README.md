@@ -5,7 +5,7 @@
 
 ![](images/capa.png "by @jprs.drw")
 
-## Tecnologias
+## Skills
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
@@ -49,7 +49,17 @@ Abaixo venho desenvolvendo algumas tecnologias:
 > 
 > ☑️Infraestrutura como Código em Terraform. 
 
+<div align="center">
+    <h1>My recent songs</h1>
+      <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=8vad3kykd7t2uc4w4slgpu65z">
+        <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8vad3kykd7t2uc4w4slgpu65z" alt="Data Card for Spotify">
+      </a>
+    <br>
+</div>
 <!--
+  #https://rahuldkjain.github.io/gh-profile-readme-generator/
+  #https://github.com/rzashakeri/beautify-github-profile
+
 TheCoolerJoao.md
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-4930b023a)
