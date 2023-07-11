@@ -59,6 +59,7 @@ Abaixo venho desenvolvendo algumas tecnologias:
 <!--
   #https://rahuldkjain.github.io/gh-profile-readme-generator/
   #https://github.com/rzashakeri/beautify-github-profile
+  #https://github.com/tandpfun/skill-icons#icons-per-line
 
 TheCoolerJoao.md
 
