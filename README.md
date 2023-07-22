@@ -27,7 +27,7 @@
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
 
-<!-->
+<!--
 ## Opa, beleza?
 
 Ola, meu nome é João Pedro, tenho 22 anos e gosto de desenvolver e criar. Particularmente gosto de ilustrar as mais variadas artes e desenvolver jogos, como o design de mapas e personagens ou criar scripts para testar mecânicas dentro dos testes em Godot. Vez ou outra brincando com amigos, edito videos curtos usando Davinci Resolve ou Kdenlive para edição de video e postar em n redes sociais. E ultimamente vim desenvolvendo gosto em automatização e implantação de serviços que possam facilitar tarefas cotidianas ou que serião repetitivas para um grupo de pessoas que usam elas.  
@@ -52,7 +52,7 @@ Abaixo venho desenvolvendo algumas tecnologias:
 
 -->
 
-
+<!--
 <div align="center">
     <h1>My recent songs</h1>
       <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=8vad3kykd7t2uc4w4slgpu65z">
@@ -60,6 +60,9 @@ Abaixo venho desenvolvendo algumas tecnologias:
       </a>
     <br>
 </div>
+-->
+
+
 <!--
   #https://rahuldkjain.github.io/gh-profile-readme-generator/
   #https://github.com/rzashakeri/beautify-github-profile
