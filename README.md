@@ -91,6 +91,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Cloud AWS
-- 🤔 I’m looking for help with Kubernetes
+- 🌱 I’m currently learning Cloud AWS and Kubernetes
+- 📫 How to reach me: jao.prss@gmail.com
 
