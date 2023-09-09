@@ -64,8 +64,6 @@ Linux • Shell Script • cloud On-Premise • Cloud Openstack• AWS • Docke
     <br>
 </div>
 -->
-
-
 <!--
   #https://rahuldkjain.github.io/gh-profile-readme-generator/
   #https://github.com/rzashakeri/beautify-github-profile
