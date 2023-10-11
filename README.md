@@ -29,7 +29,7 @@
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
 
-Linux • Bash Script • Openstack • AWS • Docker • Terraform • Ansible • Kubernetes
+Linux • Bash Script • Openstack • AWS • Docker • Terraform • Ansible • Kubernetes • Proxmox
 
 <!--
 ## Opa, beleza?
