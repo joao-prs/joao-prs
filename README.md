@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Cloud AWS and Kubernetes
+- 🌱 I’m currently learning Cloud AWS, Kubernetes and Openshift
 - 📫 How to reach me: jao.prss@gmail.com
 
