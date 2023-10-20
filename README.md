@@ -13,6 +13,7 @@
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![Arch](https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch-linux&logoColor=white)
 ![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-db7716?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -29,7 +30,7 @@
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
 
-Linux • Bash Script • Openstack • AWS • Docker • Terraform • Ansible • Kubernetes • Proxmox
+Linux • Bash Script • Openstack • Proxmox • AWS • Docker • Terraform • Ansible • Kubernetes
 
 <!--
 ## Opa, beleza?
