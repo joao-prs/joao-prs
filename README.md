@@ -103,5 +103,9 @@ Here are some ideas to get you started:
 <details> 
   <summary><h2>Stats</h2></summary>
 
-  <p><a href="https://github.com/joao-prs"><img src="https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical"></a></p>
+  <p><a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a></p>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="joao-prs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joao-prs&bg_color=16131f&color=a788fa&line=cab6fe&point=FFFFFF&hide_border=true" /></a>
+
 </details>
