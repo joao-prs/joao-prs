@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-  
+  <summary><h2>Stats</h2></summary>
+
   <p><a href="https://github.com/joao-prs"><img src="https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical"></a></p>
 </details>
