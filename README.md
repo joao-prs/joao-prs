@@ -94,3 +94,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud AWS, Kubernetes and Openshift
 - 📫 How to reach me: jao.prss@gmail.com
 
+
+[![Status do joao-prs no GitHub](https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical)](https://github.com/joao-prs)
