@@ -90,9 +90,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Status do joao-prs no GitHub](https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical)](https://github.com/joao-prs)
 -->
 - 🌱 I’m currently learning Cloud AWS, Kubernetes and Openshift
 - 📫 How to reach me: jao.prss@gmail.com
 
 
-[![Status do joao-prs no GitHub](https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical)](https://github.com/joao-prs)
+
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  
+  <p><a href="https://github.com/joao-prs"><img src="https://github-readme-stats.vercel.app/api?username=joao-prs&show_icons=true&theme=radical"></a></p>
+</details>
