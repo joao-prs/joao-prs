@@ -109,3 +109,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="joao-prs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joao-prs&bg_color=16131f&color=a788fa&line=cab6fe&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+
+<details> 
+  <summary><h2>Badges</h2></summary>
+    <p><a href="https://www.credly.com/badges/f26d3f58-6db9-4ea9-a9cf-03566aaa411c/linked_in_profile"><img alt="joao-prs's AWS badges" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="192px"/></a>
+</details>
