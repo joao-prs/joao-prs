@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 <details> 
   <summary><h2>Badges</h2></summary>
-    <p><a href="https://www.credly.com/badges/f26d3f58-6db9-4ea9-a9cf-03566aaa411c/linked_in_profile"><img alt="joao-prs's AWS badges" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="192px"/></a>
-  <a href="https://www.credly.com/earner/earned/badge/63b1ead1-1fc0-43cf-9ae8-99faaf5dd5a8"><img alt="joao-prs's AWS badges" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="192px"/></a></p>
+    <p><a href="https://www.credly.com/badges/f26d3f58-6db9-4ea9-a9cf-03566aaa411c/linked_in_profile"><img alt="joao-prs's AWS badges" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="192px"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/63b1ead1-1fc0-43cf-9ae8-99faaf5dd5a8"><img alt="joao-prs's Cisco badges" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150px"/></a></p>
 
 </details>
