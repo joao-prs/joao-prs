@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/-php-775ec2?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black)
 ![Csharp](https://img.shields.io/badge/-Csharp-8c44fb?style=flat-square&logo=csharp&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-C70039?style=flat-square&logo=ruby&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-fff519?style=flat-square&logo=javascript&logoColor=black)
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
