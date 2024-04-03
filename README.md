@@ -1,6 +1,8 @@
 <!--
 ## Bem-vindo ao meu portfólio.
 -->
+## Social
+
 [![Insta](https://img.shields.io/badge/jprs.drw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jprs.drw/)
 [![Linkedin](https://img.shields.io/badge/joao_prs-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-prs/)
 
