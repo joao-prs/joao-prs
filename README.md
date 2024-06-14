@@ -34,7 +34,7 @@ Linux • Bash Script • Openstack • Proxmox • AWS • Docker • Terraform
 
 - 🌱 I’m currently learning Cloud AWS, Kubernetes and Openshift
 - 📫 How to reach me: jao.prss@gmail.com
-
+- 🏅 See my badges 👉 https://www.credly.com/users/joao-silva.894bfed5/badges
 
 <details> 
   <summary><h2>Stats</h2></summary>
