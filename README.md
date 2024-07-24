@@ -6,6 +6,10 @@
 [![Insta](https://img.shields.io/badge/jprs.drw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jprs.drw/)
 [![Linkedin](https://img.shields.io/badge/joao_prs-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-prs/)
 
+- 🌱 I’m currently learning Cloud AWS, Kubernetes and Golang
+- 📫 How to reach me: jao.prss@gmail.com
+- 🏅 See my 👉 <a href="https://www.credly.com/users/joao-silva.894bfed5/badges">badges</a> 👈
+
 ## Skills
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -14,34 +18,30 @@
 ![redhat](https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-db7716?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-710fde?style=flat-square&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![aws](https://img.shields.io/badge/-AWS-ff9538?style=flat-square&logo=amazon&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white)
-![Mariadb](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Mariadb](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-775ec2?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black)
-![Golang](https://img.shields.io/badge/-Go-7affff?style=flat-square&logo=go&logoColor=black)
-![Csharp](https://img.shields.io/badge/-Csharp-8c44fb?style=flat-square&logo=csharp&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-fff519?style=flat-square&logo=javascript&logoColor=black)
 ![PS](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white)
 
-Linux • Bash Script • Go • Openstack • Proxmox • AWS • Docker • Terraform • Ansible • Kubernetes
+- 🧰 Tools : Linux • Bash Script • Go • Ansible • Terraform
+- ☁️ Clouds : Openstack • Proxmox • AWS • Docker • Kubernetes
 
-
-- 🌱 I’m currently learning Cloud AWS, Kubernetes and Openshift
-- 📫 How to reach me: jao.prss@gmail.com
-- 🏅 See my badges 👉 https://www.credly.com/users/joao-silva.894bfed5/badges
+<a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a>
 
 <details> 
   <summary><h2>Stats</h2></summary>
 
-  <p><a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a></p>
+  <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="joao-prs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joao-prs&bg_color=16131f&color=a788fa&line=cab6fe&point=FFFFFF&hide_border=true" /></a>
 </details>
