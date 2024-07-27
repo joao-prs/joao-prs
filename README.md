@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Cloud AWS, Kubernetes and Golang
 - 📫 How to reach me: jao.prss@gmail.com
-- 🏅 See my 👉 <a href="https://www.credly.com/users/joao-silva.894bfed5/badges">badges</a> 👈
+- 🏅 See my 👉 <a href="https://www.credly.com/users/joao-prs">badges</a> 👈
 
 ## Skills
 
