@@ -53,7 +53,7 @@
   <a href="https://www.credly.com/badges/22b0b9a3-e744-4cc3-8463-a311d6886fd6"><img alt="joao-prs's AWS badges" src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="120px"/></a>
   <a href="https://www.credly.com/badges/3c24044e-5fd4-489e-a340-56dc1958273e"><img alt="IBM badges" src="https://images.credly.com/size/340x340/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png" width="100px"/></a>
   <a href="https://www.credly.com/badges/a853e7cd-0c4b-40fa-8f82-1c59c09de523/linked_in_profile"><img alt="linux foundation badges" src="https://images.credly.com/size/340x340/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png" width="100px"/></a>  
-  <a href="https://www.credly.com/badges/c20d9831-fd9c-4d9c-8d12-09016b21787d"><img alt="linux foundation badges" src="https://images.credly.com/size/340x340/images/607ce371-dcd7-4372-9a4c-62e478ce64c5/image.png" width="100px"/></a>
+  <a href="https://www.credly.com/badges/c20d9831-fd9c-4d9c-8d12-09016b21787d"><img alt="linux foundation badges" src="https://images.credly.com/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="100px"/></a>
   <a href="https://www.credly.com/earner/earned/badge/63b1ead1-1fc0-43cf-9ae8-99faaf5dd5a8"><img alt="joao-prs's Cisco badges" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100px"/></a>
   <a href="https://www.credly.com/earner/earned/badge/9bab5004-ec97-4ce3-a585-04575ceb7100"><img alt="joao-prs's Cisco badges" src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100px"/></a>
   </p>
