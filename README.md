@@ -7,14 +7,16 @@
 
 <table>
   <tr>
-    <th> <h2 align="right">Contact</h2><p>meios de entrar em contato comigo</p> </th>
-    <th> <h2 align="right">Social</h2><p>minhas redes sociais mais usadas</p> </th>
+    <th> <h2 align="center">Contact</h2><p>About me</p> </th>
+    <th> <h2 align="center">Social</h2><p>My most used social networks</p> </th>
   </tr>
     <th width="50%">
       <ul align="left">
         <li>🌱 I’m currently learning Cloud AWS, Kubernetes and Golang</li>
         <li>📫 How to reach me: jao.prss@gmail.com</li>
         <li>🏅 See my 👉 <a href="https://www.credly.com/users/joao-prs">badges</a> 👈</li>
+        <li>🧰 Tools : Linux • Bash Script • Go • Ansible • Terraform</li>
+        <li>☁️ Clouds : Openstack • Proxmox • AWS • Docker • Kubernetes</li>
       </ul>
     </th>
     <th width="50%">
@@ -48,24 +50,19 @@
 
 <table>
   <tr>
-    <th><h2 align="right">Average Skill</h2><p>Habilidades que desenvolvi ao longo da carreira</p></th>
-    <th><h2 align="right">Main Skill</h2><p>Habilidades que me especializei por carreira</p></th>
-    <th><h2 align="right">Hobby Skill</h2><p>Habilidades que me especializei por hobby</p></th>
+    <th><h2 align="right">Average Skill</h2><p>Habilidades que desenvolvi ao longo da minha formação e experiências</p></th>
+    <th><h2 align="right">Main Skill</h2><p>Habilidades que me especializei por carreira ou experiências que tive</p></th>
+    <th><h2 align="right">Hobby Skill</h2><p>Habilidades que me especializei por hobby ou tempo livre</p></th>
   </tr>
     <th width="34%"> <img src="https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white"> <img src="https://img.shields.io/badge/-Suse-35BF5C?style=flat-square&logo=suse&logoColor=white"> <img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-ff9538?style=flat-square&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-fff519?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-php-775ec2?style=flat-square&logo=php&logoColor=white"> </th>
   <th width="33%"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/-Proxmox-db7716?style=flat-square&logo=proxmox&logoColor=white"> </th>
-  <th width="33%"><img src="https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=Premiere%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white"> </th>
+  <th width="33%"><img src="https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=vegas%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white"> </th>
 </table>
 
-- 🧰 Tools : Linux • Bash Script • Go • Ansible • Terraform
-- ☁️ Clouds : Openstack • Proxmox • AWS • Docker • Kubernetes
-
-<a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a>
-
+<a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a> <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
+  
 <details> 
   <summary><h2>Stats</h2></summary>
-
-  <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="joao-prs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joao-prs&bg_color=16131f&color=a788fa&line=cab6fe&point=FFFFFF&hide_border=true" /></a>
 </details>
