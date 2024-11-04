@@ -56,7 +56,7 @@
   </tr>
     <th width="34%"> <img src="https://img.shields.io/badge/-RedHat-da1414?style=flat-square&logo=redhat&logoColor=white"> <img src="https://img.shields.io/badge/-Suse-35BF5C?style=flat-square&logo=suse&logoColor=white"> <img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-ff9538?style=flat-square&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/-Nginx-08bf0e?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/-Postgresql-427db5?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Python-ffec29?style=flat-square&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-fff519?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-php-775ec2?style=flat-square&logo=php&logoColor=white"> </th>
   <th width="33%"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Kubernetes-3887ff?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/-Proxmox-db7716?style=flat-square&logo=proxmox&logoColor=white"> </th>
-  <th width="33%"><img src="https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=vegas%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white"> </th>
+  <th width="33%"><img src="https://img.shields.io/badge/-Arch-168eca?style=flat-square&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/-Photoshop-14249E?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Davinci-f14522?style=flat-square&logo=davinciresolve&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-ed961e?style=flat-square&logo=blender&logoColor=white"> </th>
 </table>
 
 <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-prs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"></a> <a href="https://github.com/joao-prs"><img alt="joao-prs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=joao-prs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=16131f&title_color=a788fa&icon_color=F8D866" height="192px"/></a>
@@ -67,6 +67,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="joao-prs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joao-prs&bg_color=16131f&color=a788fa&line=cab6fe&point=FFFFFF&hide_border=true" /></a>
 </details>
 
+<!--
 <details> 
   <summary><h2>Badges</h2></summary>
   <p>
@@ -79,3 +80,4 @@
   <a href="https://www.credly.com/earner/earned/badge/9bab5004-ec97-4ce3-a585-04575ceb7100"><img alt="joao-prs's Cisco badges" src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100px"/></a>
   </p>
 </details>
+-->
