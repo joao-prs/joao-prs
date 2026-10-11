@@ -31,6 +31,6 @@ I am João Pedro. I'm a technology enthusiast and open-source advocate. I have a
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joao-prs&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joao-prs.joao-prs)
